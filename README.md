@@ -1,6 +1,6 @@
 # Vue Todo
 Aplikasi todo sederhana menggunakan vuejs
-<hr>
-Nama	: nama_saya
-Kelas	: kelas_saya
-NIM 	: nim_saya
+
+Nama	: nama_saya <br>
+Kelas	: kelas_saya <br>
+NIM 	: nim_saya <br>
