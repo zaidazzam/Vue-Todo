@@ -1,6 +1,7 @@
 # Vue Todo
+
 Aplikasi todo sederhana menggunakan vuejs
 
-Nama	: nama_saya <br>
-Kelas	: kelas_saya <br>
-NIM 	: nim_saya <br>
+Nama : Zaid Abdullah Azzam <br>
+Kelas : D3RPLA 45-01 <br>
+NIM : 6706213055 <br>
